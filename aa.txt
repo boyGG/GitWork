@@ -3,3 +3,6 @@ asssdsdfafdfv
 文件 已经 被修改
 
 Git is free software distributed under GPL
+
+
+Git has a mutable index called stage
